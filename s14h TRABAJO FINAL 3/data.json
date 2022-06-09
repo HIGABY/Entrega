@@ -1,0 +1,31 @@
+{
+  "colores":{
+    "p1" : "rgb(255, 255, 255)",
+    "p2" : "rgb(255, 100, 50)",
+    "p3" : "rgb(50, 255, 100)",
+    "p4" : "rgb(150, 255, 100)",
+    "p5" : "rgb(100, 255, 150)",
+    "p6" : "rgb(150, 255, 255)",
+    "p7" : "rgb(255, 255, 150)"
+  },
+  "videos":{
+  "p1" : "https://media.giphy.com/media/js585wl3Qpq1UdOITv/giphy.mp4",
+  "p2" : "https://media.giphy.com/media/jLKkF3dPJHwQg/giphy.mp4",
+  "p3" : "https://media.giphy.com/media/8YQnUVz4nGtVSPYBD0/giphy.mp4",
+  "p4" : "https://media.giphy.com/media/4HcGdnro0YX3a8EBSf/giphy.mp4",
+  "p5" : "https://media.giphy.com/media/4HcGdnro0YX3a8EBSf/giphy.mp4",
+  "p6" : "https://media.giphy.com/media/4HcGdnro0YX3a8EBSf/giphy.mp4",
+  "p7" : "https://media.giphy.com/media/1mssFONYwmBlJy1DAv/giphy.mp4"
+  },
+
+  "audios":{
+    "p1" : "audios/01Audio.mp3",
+    "p2" : "audios/02Audio.mp3",
+    "p3" : "audios/03Audio.mp3",
+    "p4" : "audios/04Audio.mp3",
+    "p5" : "audios/05Audio.mp3",
+    "p6" : "audios/06Audio.mp3",
+    "p7" : "audios/07Audio.mp3"
+
+  }
+}
